@@ -15,3 +15,5 @@ https://github.com/user-attachments/assets/b4c9c532-dac5-44e8-aced-bad0a247a9ce
 ### Horizontal Pod Autoscaler (HPA) Deployment
 
 https://github.com/user-attachments/assets/d998b547-025d-4dcf-a985-ea00aa595ae0
+
+> continue work here.. to keep in touch with devops folks through code.
